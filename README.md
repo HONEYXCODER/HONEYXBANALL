@@ -21,5 +21,5 @@
 - ʀᴇsᴛᴀʀᴛ
 
 # ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Honeyxslayer/honeybanall)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/HONEYXCODER/HONEYXBANALL)
 
